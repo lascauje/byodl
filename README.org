@@ -1,0 +1,4 @@
+* Build Your Own Deep Learning
+A brief introduction to some of the most popular deep learning subjects.
+- dl.org, contains *all* the source code and the documentation
+- doc, contains the documentation *generated* from dl.org ([[https://lascauje.github.io/byodl/doc/dl.html][html]], [[https://lascauje.github.io/byodl/doc/dl.pdf][pdf]])
